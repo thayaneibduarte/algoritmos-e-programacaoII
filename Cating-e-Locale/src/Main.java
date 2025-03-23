@@ -4,5 +4,8 @@ public class Main {
 
         double pi = 3.14159;
         float b = (float) pi;
+
+        int c = (int) b;
+
     }
 }
